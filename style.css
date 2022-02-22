@@ -1,0 +1,174 @@
+html{
+    margin: -10px;
+}
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.first-element{
+    background-color: #1f2937;
+    display: flex;
+    justify-content:center;
+
+}
+
+.tbm{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+.white-space{
+    height: 10px;
+    width: 650px;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    color:#F9FAF8
+}
+
+a {
+    text-decoration: none;
+
+}
+.second-element{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #1f2937;
+    padding: 2% 0%;
+
+}
+.hero{
+    display: flex;
+    flex-flow: column;
+    max-width: 620px;
+    max-height: 300px;
+
+}
+.hero  p{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.text-competition{
+   margin-top: -25px;
+   min-width: 500px;
+}
+
+.button1{
+    align-self: flex-start;
+    background-color: #3882f6;
+    border-radius: 8%;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 8px;
+}
+
+.img-contend{
+    margin-left: 30px;
+}
+.swimn{
+    min-width: 620px;
+    max-height: 300px;
+    margin:30px 0;
+}
+
+h1{ /*entrenamiento para la competencia */
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+h2{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 800;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+}
+.sports{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 70px 0px;
+}
+.info > img{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 5%;
+    border: 5px solid #3882f6;
+}
+.info > .text{
+    max-width: 300px;
+    text-align: justify;
+    text-align-last: center;
+
+}
+.fourt-element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+}
+.thegod{
+    max-width: 60%;
+    min-width: auto;
+    display: flex;
+    flex-direction: column;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+.quote{
+    text-align: left;
+
+}
+.caption{
+    align-self: flex-end;
+    margin-right: 80px;
+    font-weight:800;
+    font-size: 30px;
+    margin-top: -6%;
+    margin-bottom: 6%;
+}
+
+.fith-element{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.call-action{
+    display: flex;
+    padding: 10px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: #e5e7eb;
+    font-size: 18px;
+    min-width: 72%;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    justify-content: center;
+    padding: 20px;
+}
+h3{
+    font-weight: 800;
+}
+.last{
+    align-self: center;
+    margin-left: 15%;
+    border: 2px solid #e5e7eb;
+
+}
+.text-call-action{
+    margin-top: -20px;
+
+}
