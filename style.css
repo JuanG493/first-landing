@@ -1,13 +1,13 @@
 html{
     margin: -10px;
 }
+
 *{
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
 
 .first-element{
-    /* background-color: #1f2937; */
     background-color: #17402A;
     display: flex;
     justify-content:center;
@@ -50,7 +50,6 @@ a {
     justify-content: center;
     flex-wrap: wrap;
     background-color: #17402A;
-    /* background-color: #445959; */
     padding: 2% 0%;
 
 }
@@ -98,7 +97,7 @@ a {
     border-radius: 2%;
 }
 
-h1{ /*entrenamiento para la competencia */
+h1{ 
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 800;
@@ -111,7 +110,6 @@ h2{
     min-width: auto;
     text-align: center;
     padding-bottom: 10px;
-    /* text-shadow:-4px -4px black; */
     text-shadow: 0px 0px 5px #45be7d;
 }
 .sports{
