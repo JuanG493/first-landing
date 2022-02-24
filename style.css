@@ -121,15 +121,15 @@ h2{
 }
 
 .info > .text{
-    max-width: 300px;
+    max-width: 250px;
     text-align: justify;
     text-align-last: center;
     padding-top: 15px;
 }
 /*changed of img*/
 .basket{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: url(./img/ball1.jpg);
     border: 5px solid #45be7d;;
     border-radius: 5%;
@@ -139,8 +139,8 @@ h2{
     border:5px solid #f5c116;
 }
 .judo{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: url(./img/jud1.jpg);
     border: 5px solid #45be7d;;
     border-radius: 5%;
@@ -150,8 +150,8 @@ h2{
     border:5px solid #f5c116;
 }
 .wliftingh{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: url(./img/pes1.jpg);
     border: 5px solid #45be7d;;
     border-radius: 5%;
@@ -161,10 +161,10 @@ h2{
     border: 5px solid #f5c116;;
 }
 .gimna{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: url(./img/gim1.jpg);
-    border: 5px solid #45be7d;;
+    border: 5px solid #45be7d;
     border-radius: 5%;
 }
 .gimna:hover{
@@ -172,8 +172,8 @@ h2{
     border:5px solid #f5c116;;
 }
 .badminton{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     background: url(./img/bad1.jpg);
     border: 5px solid #45be7d;;
     border-radius: 5%;
