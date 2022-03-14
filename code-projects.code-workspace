@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../mnt/d/Drive/coding"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coding"
+	}
+}
